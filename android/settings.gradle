@@ -1,0 +1,3 @@
+rootProject.name = 'OnesieNative'
+
+include ':app'
